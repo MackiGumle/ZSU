@@ -1,0 +1,11 @@
+3 - FIFA 2022
+
+https://www.kaggle.com/cashncarry/fifa-22-complete-player-dataset
+
+    Dataset
+
+    Use dataset players_fifa22.csv, which is more suitable for this project. However this dataset consists of huge number of columns. Select only subset of columns for your analysis based on your hypotesis.
+
+You have just joined the data analytics team at Football Insights, a sports analytics company that provides in-depth statistics and analysis to football clubs, scouts, and fans worldwide. Your team has recently been given access to an extensive, validated dataset of all FIFA 22 players. This dataset contains detailed information on every player, including attributes like pace, shooting, dribbling, defending, and much more.
+
+The football world is always looking for competitive advantages, and your company wants to provide clients with data-driven insights on player performance. Your role as a data analyst is to explore this dataset and uncover meaningful insights that can help football clubs in areas like scouting, player development, and team strategy.
